@@ -235,5 +235,5 @@ SWAGGER_SETTINGS = {
         }
     },
     'USE_SESSION_AUTH': False,
-    'PERSIST_AUTH': True,  # This retains the token after page refresh
+    'PERSIST_AUTH': True, 
 }
