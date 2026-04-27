@@ -1,0 +1,1185 @@
+{
+  "success": true,
+  "timeline": [
+    "Running list_entries"
+  ],
+  "actions": [
+    {
+      "tool": "list_entries",
+      "args": {
+        "uid": "api::blog.blog",
+        "limit": 10
+      }
+    }
+  ],
+  "results": [
+    {
+      "tool": "list_entries",
+      "success": true,
+      "data": [
+        {
+          "id": 3,
+          "documentId": "t62e1udnifcv5h6dy4jqhple",
+          "title": "The Future of AI in Software Development",
+          "subtitle": "AI is becoming part of how products are built, operated, and improved.",
+          "content": [
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "AI Is Moving From Features to Foundations",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "AI is no longer limited to chatbots. It is increasingly used in operational forecasting, anomaly detection, workflow automation, and decision support.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "children": [
+                {
+                  "text": "Where Businesses Are Seeing Real Value",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "unordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Support automation and smarter triage",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Sales and pipeline insights from behavioural signals",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Predictive maintenance and operational alerts",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Content and knowledge search inside organisations",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Fraud detection and risk scoring",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "children": [
+                {
+                  "text": "The Key: Use AI With Clear Boundaries",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The best implementations focus on measurable outcomes, clean data foundations, and clear human oversight. AI should strengthen reliability, not introduce uncertainty.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "slug": "future-of-ai-in-tech",
+          "createdAt": "2026-03-26T12:04:45.928Z",
+          "updatedAt": "2026-03-27T03:56:08.706Z",
+          "publishedAt": null,
+          "locale": null,
+          "metaTitle": null,
+          "metaDescription": null,
+          "focusKeywords": null,
+          "canonicalUrl": null,
+          "images": [
+            {
+              "id": 43,
+              "documentId": "qs5dn0dztr2jwik4gtfzw9m5",
+              "name": "john-FlPc9_VocJ4-unsplash.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "focalPoint": null,
+              "width": 5184,
+              "height": 3456,
+              "formats": {
+                "large": {
+                  "ext": ".jpg",
+                  "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604448/large_john_Fl_Pc9_Voc_J4_unsplash_382552a165.jpg",
+                  "hash": "large_john_Fl_Pc9_Voc_J4_unsplash_382552a165",
+                  "mime": "image/jpeg",
+                  "name": "large_john-FlPc9_VocJ4-unsplash.jpg",
+                  "path": null,
+                  "size": 65.57,
+                  "width": 1000,
+                  "height": 667,
+                  "sizeInBytes": 65567,
+                  "provider_metadata": {
+                    "public_id": "large_john_Fl_Pc9_Voc_J4_unsplash_382552a165",
+                    "resource_type": "image"
+                  }
+                },
+                "small": {
+                  "ext": ".jpg",
+                  "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604448/small_john_Fl_Pc9_Voc_J4_unsplash_382552a165.jpg",
+                  "hash": "small_john_Fl_Pc9_Voc_J4_unsplash_382552a165",
+                  "mime": "image/jpeg",
+                  "name": "small_john-FlPc9_VocJ4-unsplash.jpg",
+                  "path": null,
+                  "size": 21.93,
+                  "width": 500,
+                  "height": 333,
+                  "sizeInBytes": 21927,
+                  "provider_metadata": {
+                    "public_id": "small_john_Fl_Pc9_Voc_J4_unsplash_382552a165",
+                    "resource_type": "image"
+                  }
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604448/medium_john_Fl_Pc9_Voc_J4_unsplash_382552a165.jpg",
+                  "hash": "medium_john_Fl_Pc9_Voc_J4_unsplash_382552a165",
+                  "mime": "image/jpeg",
+                  "name": "medium_john-FlPc9_VocJ4-unsplash.jpg",
+                  "path": null,
+                  "size": 41.4,
+                  "width": 750,
+                  "height": 500,
+                  "sizeInBytes": 41401,
+                  "provider_metadata": {
+                    "public_id": "medium_john_Fl_Pc9_Voc_J4_unsplash_382552a165",
+                    "resource_type": "image"
+                  }
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604448/thumbnail_john_Fl_Pc9_Voc_J4_unsplash_382552a165.jpg",
+                  "hash": "thumbnail_john_Fl_Pc9_Voc_J4_unsplash_382552a165",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_john-FlPc9_VocJ4-unsplash.jpg",
+                  "path": null,
+                  "size": 7.25,
+                  "width": 234,
+                  "height": 156,
+                  "sizeInBytes": 7254,
+                  "provider_metadata": {
+                    "public_id": "thumbnail_john_Fl_Pc9_Voc_J4_unsplash_382552a165",
+                    "resource_type": "image"
+                  }
+                }
+              },
+              "hash": "john_Fl_Pc9_Voc_J4_unsplash_382552a165",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 906.9,
+              "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604448/john_Fl_Pc9_Voc_J4_unsplash_382552a165.jpg",
+              "previewUrl": null,
+              "provider": "cloudinary",
+              "provider_metadata": {
+                "public_id": "john_Fl_Pc9_Voc_J4_unsplash_382552a165",
+                "resource_type": "image"
+              },
+              "folderPath": "/",
+              "createdAt": "2026-03-27T03:55:49.399Z",
+              "updatedAt": "2026-03-30T05:14:36.442Z",
+              "publishedAt": "2026-03-27T03:55:49.399Z",
+              "locale": null
+            }
+          ],
+          "createdBy": null,
+          "updatedBy": {
+            "id": 1,
+            "documentId": "spmexdj44z5k1h7g36qw2dz9",
+            "firstname": "HTR ONE",
+            "lastname": "TECH",
+            "username": "HTR ONE TECH",
+            "email": "info@htronetech.com",
+            "password": "$2a$10$wTm1iVLnDcyP9gfrdx.bSulXZEaO4njL3TOTxfMdcCWMtakK2JwTq",
+            "resetPasswordToken": null,
+            "registrationToken": null,
+            "isActive": true,
+            "blocked": false,
+            "preferedLanguage": null,
+            "createdAt": "2026-03-26T10:15:53.513Z",
+            "updatedAt": "2026-03-26T10:21:48.219Z",
+            "publishedAt": "2026-03-26T10:15:53.514Z",
+            "locale": null
+          },
+          "localizations": []
+        },
+        {
+          "id": 1,
+          "documentId": "tcd0xzue8o30qo7pgxrmtbwy",
+          "title": "Unlocking Business Potential: The Power of Bespoke Software Development",
+          "subtitle": "Why Custom Software Solutions are Key for Modern Businesses",
+          "content": [
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "Introduction to Bespoke Software Development",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "In an era where standard solutions often fall short of meeting unique business needs, bespoke software development emerges as a strategic advantage. This approach ensures that software solutions are tailored specifically to align with the individual requirements and workflows of a business, leading to enhanced efficiency and operational performance.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "Understanding the Concept of Bespoke Software",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Bespoke software, sometimes referred to as custom software, is developed exclusively for a specific client to cater to their particular standards and needs. Unlike off-the-shelf software solutions that offer generalized features for a wide audience, bespoke software is customized from the ground up, providing personalized functionality.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "Key Benefits of Bespoke Software Development",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1. **Tailored Functionality**: Every business has unique processes and challenges. Bespoke software is developed to address these specific needs directly, ensuring functionality that aligns with business goals.\n2. **Scalability**: Custom software can grow with the business. New features and functionalities can be integrated as the company evolves, avoiding the constraints commonly faced with off-the-shelf solutions.\n3. **Enhanced Security**: Custom solutions allow for stronger security tailored to the specific threats that a business faces, reducing vulnerabilities found in more common software.\n4. **Greater Integration**: Bespoke software can be designed to integrate seamlessly with existing systems, streamlining workflows and reducing manual data entry.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "The Development Process",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The journey to developing bespoke software typically involves several key stages:\n\n1. **Requirement Gathering**: This initial step involves thorough discussions and analysis of what the client requires and the problems they aim to solve with the software.\n2. **Planning**: Based on the gathered requirements, a comprehensive plan is created, outlining the project timeline, resources needed, and specific functionalities.\n3. **Design**: At this stage, user interfaces and experiences are designed, focusing on usability and meeting client vision.\n4. **Development**: This is where coding and actual software creation happen, following best practices and industry standards.\n5. **Testing**: Before delivering the product, rigorous testing is conducted to ensure that software performs as intended and is free from bugs.\n6. **Deployment and Support**: Post-launch, support is essential for troubleshooting and making further improvements based on user feedback.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "Case Studies: Success Stories of Bespoke Software Development",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Numerous businesses have leveraged bespoke software solutions to achieve remarkable outcomes. For instance, a retail company was able to streamline its entire inventory management system through a custom-built application, significantly reducing stock discrepancies and improving order fulfillment times. Similarly, a healthcare organization developed bespoke software to enhance patient management processes, resulting in improved patient care and operational efficiency.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "Choosing the Right Development Partner",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Selecting the right development team is critical to the success of your bespoke software project. Look for partners with demonstrated expertise in your industry, a solid portfolio of past projects, and a collaborative approach to understanding your business needs. Ensuring that they utilize agile development methodologies can also facilitate faster iterations and adaptability throughout the project.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "Conclusion",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "In conclusion, bespoke software development stands as a potent tool for businesses looking to differentiate themselves in a competitive landscape. By investing in a solution tailored to their specific needs, organizations can optimize operations, enhance customer experiences, and build a foundation for future growth.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "slug": "bespoke-software-development",
+          "createdAt": "2026-03-26T12:04:43.363Z",
+          "updatedAt": "2026-03-27T07:15:23.980Z",
+          "publishedAt": null,
+          "locale": null,
+          "metaTitle": null,
+          "metaDescription": null,
+          "focusKeywords": null,
+          "canonicalUrl": null,
+          "images": [
+            {
+              "id": 35,
+              "documentId": "hvrjnyiq657mf4t9q9tgeffg",
+              "name": "Blog8.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "focalPoint": null,
+              "width": 3767,
+              "height": 2000,
+              "formats": {
+                "large": {
+                  "ext": ".jpg",
+                  "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604280/large_Blog8_bac5d2d276.jpg",
+                  "hash": "large_Blog8_bac5d2d276",
+                  "mime": "image/jpeg",
+                  "name": "large_Blog8.jpg",
+                  "path": null,
+                  "size": 115.09,
+                  "width": 1000,
+                  "height": 531,
+                  "sizeInBytes": 115092,
+                  "provider_metadata": {
+                    "public_id": "large_Blog8_bac5d2d276",
+                    "resource_type": "image"
+                  }
+                },
+                "small": {
+                  "ext": ".jpg",
+                  "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604280/small_Blog8_bac5d2d276.jpg",
+                  "hash": "small_Blog8_bac5d2d276",
+                  "mime": "image/jpeg",
+                  "name": "small_Blog8.jpg",
+                  "path": null,
+                  "size": 34.99,
+                  "width": 500,
+                  "height": 266,
+                  "sizeInBytes": 34994,
+                  "provider_metadata": {
+                    "public_id": "small_Blog8_bac5d2d276",
+                    "resource_type": "image"
+                  }
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604280/medium_Blog8_bac5d2d276.jpg",
+                  "hash": "medium_Blog8_bac5d2d276",
+                  "mime": "image/jpeg",
+                  "name": "medium_Blog8.jpg",
+                  "path": null,
+                  "size": 68.87,
+                  "width": 750,
+                  "height": 399,
+                  "sizeInBytes": 68872,
+                  "provider_metadata": {
+                    "public_id": "medium_Blog8_bac5d2d276",
+                    "resource_type": "image"
+                  }
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604280/thumbnail_Blog8_bac5d2d276.jpg",
+                  "hash": "thumbnail_Blog8_bac5d2d276",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_Blog8.jpg",
+                  "path": null,
+                  "size": 10.55,
+                  "width": 245,
+                  "height": 130,
+                  "sizeInBytes": 10547,
+                  "provider_metadata": {
+                    "public_id": "thumbnail_Blog8_bac5d2d276",
+                    "resource_type": "image"
+                  }
+                }
+              },
+              "hash": "Blog8_bac5d2d276",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 1004.96,
+              "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604280/Blog8_bac5d2d276.jpg",
+              "previewUrl": null,
+              "provider": "cloudinary",
+              "provider_metadata": {
+                "public_id": "Blog8_bac5d2d276",
+                "resource_type": "image"
+              },
+              "folderPath": "/",
+              "createdAt": "2026-03-27T03:53:01.518Z",
+              "updatedAt": "2026-03-27T03:53:01.518Z",
+              "publishedAt": "2026-03-27T03:53:01.518Z",
+              "locale": null
+            }
+          ],
+          "createdBy": null,
+          "updatedBy": {
+            "id": 1,
+            "documentId": "spmexdj44z5k1h7g36qw2dz9",
+            "firstname": "HTR ONE",
+            "lastname": "TECH",
+            "username": "HTR ONE TECH",
+            "email": "info@htronetech.com",
+            "password": "$2a$10$wTm1iVLnDcyP9gfrdx.bSulXZEaO4njL3TOTxfMdcCWMtakK2JwTq",
+            "resetPasswordToken": null,
+            "registrationToken": null,
+            "isActive": true,
+            "blocked": false,
+            "preferedLanguage": null,
+            "createdAt": "2026-03-26T10:15:53.513Z",
+            "updatedAt": "2026-03-26T10:21:48.219Z",
+            "publishedAt": "2026-03-26T10:15:53.514Z",
+            "locale": null
+          },
+          "localizations": []
+        },
+        {
+          "id": 5,
+          "documentId": "omrib5t69ox17hpkx42xl59m",
+          "title": "Enhancing Custom Software Performance",
+          "subtitle": "Key Strategies for Optimizing Your Applications",
+          "content": [
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "Understanding Software Performance",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Custom software performance is crucial for ensuring applications run efficiently and deliver a seamless user experience. High performance allows applications to process tasks quicker and manage data effectively.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "Factors Affecting Software Performance",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Several factors can impact the performance of custom software, including code quality, system resources, and architecture design. Identifying and addressing these factors is key to improving overall performance.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "Best Practices for Performance Optimization",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "To achieve optimal performance, consider implementing best practices such as code refactoring, utilizing caching mechanisms, optimizing database queries, and conducting regular performance testing.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "slug": "custom-software-performance",
+          "createdAt": "2026-03-26T12:04:48.499Z",
+          "updatedAt": "2026-03-27T07:12:16.589Z",
+          "publishedAt": null,
+          "locale": null,
+          "metaTitle": null,
+          "metaDescription": null,
+          "focusKeywords": null,
+          "canonicalUrl": null,
+          "images": [
+            {
+              "id": 31,
+              "documentId": "lmtfstuclkqzdqcm249nh6b9",
+              "name": "Blog1.webp",
+              "alternativeText": null,
+              "caption": null,
+              "focalPoint": null,
+              "width": 1162,
+              "height": 1290,
+              "formats": {
+                "large": {
+                  "ext": ".webp",
+                  "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604277/large_Blog1_f7ae2166f5.webp",
+                  "hash": "large_Blog1_f7ae2166f5",
+                  "mime": "image/webp",
+                  "name": "large_Blog1.webp",
+                  "path": null,
+                  "size": 52.39,
+                  "width": 901,
+                  "height": 1000,
+                  "sizeInBytes": 52390,
+                  "provider_metadata": {
+                    "public_id": "large_Blog1_f7ae2166f5",
+                    "resource_type": "image"
+                  }
+                },
+                "small": {
+                  "ext": ".webp",
+                  "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604276/small_Blog1_f7ae2166f5.webp",
+                  "hash": "small_Blog1_f7ae2166f5",
+                  "mime": "image/webp",
+                  "name": "small_Blog1.webp",
+                  "path": null,
+                  "size": 23.49,
+                  "width": 450,
+                  "height": 500,
+                  "sizeInBytes": 23490,
+                  "provider_metadata": {
+                    "public_id": "small_Blog1_f7ae2166f5",
+                    "resource_type": "image"
+                  }
+                },
+                "medium": {
+                  "ext": ".webp",
+                  "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604276/medium_Blog1_f7ae2166f5.webp",
+                  "hash": "medium_Blog1_f7ae2166f5",
+                  "mime": "image/webp",
+                  "name": "medium_Blog1.webp",
+                  "path": null,
+                  "size": 37.63,
+                  "width": 676,
+                  "height": 750,
+                  "sizeInBytes": 37634,
+                  "provider_metadata": {
+                    "public_id": "medium_Blog1_f7ae2166f5",
+                    "resource_type": "image"
+                  }
+                },
+                "thumbnail": {
+                  "ext": ".webp",
+                  "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604276/thumbnail_Blog1_f7ae2166f5.webp",
+                  "hash": "thumbnail_Blog1_f7ae2166f5",
+                  "mime": "image/webp",
+                  "name": "thumbnail_Blog1.webp",
+                  "path": null,
+                  "size": 5.25,
+                  "width": 141,
+                  "height": 156,
+                  "sizeInBytes": 5250,
+                  "provider_metadata": {
+                    "public_id": "thumbnail_Blog1_f7ae2166f5",
+                    "resource_type": "image"
+                  }
+                }
+              },
+              "hash": "Blog1_f7ae2166f5",
+              "ext": ".webp",
+              "mime": "image/webp",
+              "size": 73.87,
+              "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604276/Blog1_f7ae2166f5.webp",
+              "previewUrl": null,
+              "provider": "cloudinary",
+              "provider_metadata": {
+                "public_id": "Blog1_f7ae2166f5",
+                "resource_type": "image"
+              },
+              "folderPath": "/",
+              "createdAt": "2026-03-27T03:52:57.551Z",
+              "updatedAt": "2026-03-27T03:52:57.551Z",
+              "publishedAt": "2026-03-27T03:52:57.551Z",
+              "locale": null
+            }
+          ],
+          "createdBy": null,
+          "updatedBy": {
+            "id": 1,
+            "documentId": "spmexdj44z5k1h7g36qw2dz9",
+            "firstname": "HTR ONE",
+            "lastname": "TECH",
+            "username": "HTR ONE TECH",
+            "email": "info@htronetech.com",
+            "password": "$2a$10$wTm1iVLnDcyP9gfrdx.bSulXZEaO4njL3TOTxfMdcCWMtakK2JwTq",
+            "resetPasswordToken": null,
+            "registrationToken": null,
+            "isActive": true,
+            "blocked": false,
+            "preferedLanguage": null,
+            "createdAt": "2026-03-26T10:15:53.513Z",
+            "updatedAt": "2026-03-26T10:21:48.219Z",
+            "publishedAt": "2026-03-26T10:15:53.514Z",
+            "locale": null
+          },
+          "localizations": []
+        },
+        {
+          "id": 14,
+          "documentId": "m4d63o27yzyyxxqd65vksn5d",
+          "title": "Why Bespoke Software Wins",
+          "subtitle": "Where off-the-shelf tools create limits, custom systems create leverage.",
+          "content": [
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "Off-the-Shelf Is Fast — Until It Isn’t",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Generic tools are useful at the start, but they often force your operations into someone else’s structure. Over time, that creates workarounds, manual processes, and reporting gaps.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "children": [
+                {
+                  "text": "Bespoke Software Matches the Way You Operate",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Custom systems are designed around your workflows, your approvals, your data, and your customers. That alignment reduces friction and improves performance.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "children": [
+                {
+                  "text": "Where Bespoke Delivers the Most Value",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "unordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Operational platforms with multiple teams and roles",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Complex workflows that require approvals and audit trails",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Automation that removes repeated admin tasks",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Dashboards and reporting that leadership actually uses",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Integrations across tools that don’t naturally talk to each other",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "slug": "why-bespoke-software-wins",
+          "createdAt": "2026-03-26T10:56:48.276Z",
+          "updatedAt": "2026-03-27T09:46:02.170Z",
+          "publishedAt": null,
+          "locale": null,
+          "metaTitle": null,
+          "metaDescription": null,
+          "focusKeywords": null,
+          "canonicalUrl": null,
+          "images": [
+            {
+              "id": 37,
+              "documentId": "cf4lp5sfi4ue46qvu3ysp241",
+              "name": "emile-perron-xrVDYZRGdw4-unsplash.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "focalPoint": null,
+              "width": 5507,
+              "height": 3098,
+              "formats": {
+                "large": {
+                  "ext": ".jpg",
+                  "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604418/large_emile_perron_xr_VDYZR_Gdw4_unsplash_c476416379.jpg",
+                  "hash": "large_emile_perron_xr_VDYZR_Gdw4_unsplash_c476416379",
+                  "mime": "image/jpeg",
+                  "name": "large_emile-perron-xrVDYZRGdw4-unsplash.jpg",
+                  "path": null,
+                  "size": 49.64,
+                  "width": 1000,
+                  "height": 563,
+                  "sizeInBytes": 49637,
+                  "provider_metadata": {
+                    "public_id": "large_emile_perron_xr_VDYZR_Gdw4_unsplash_c476416379",
+                    "resource_type": "image"
+                  }
+                },
+                "small": {
+                  "ext": ".jpg",
+                  "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604418/small_emile_perron_xr_VDYZR_Gdw4_unsplash_c476416379.jpg",
+                  "hash": "small_emile_perron_xr_VDYZR_Gdw4_unsplash_c476416379",
+                  "mime": "image/jpeg",
+                  "name": "small_emile-perron-xrVDYZRGdw4-unsplash.jpg",
+                  "path": null,
+                  "size": 15.68,
+                  "width": 500,
+                  "height": 281,
+                  "sizeInBytes": 15683,
+                  "provider_metadata": {
+                    "public_id": "small_emile_perron_xr_VDYZR_Gdw4_unsplash_c476416379",
+                    "resource_type": "image"
+                  }
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604418/medium_emile_perron_xr_VDYZR_Gdw4_unsplash_c476416379.jpg",
+                  "hash": "medium_emile_perron_xr_VDYZR_Gdw4_unsplash_c476416379",
+                  "mime": "image/jpeg",
+                  "name": "medium_emile-perron-xrVDYZRGdw4-unsplash.jpg",
+                  "path": null,
+                  "size": 30.62,
+                  "width": 750,
+                  "height": 422,
+                  "sizeInBytes": 30618,
+                  "provider_metadata": {
+                    "public_id": "medium_emile_perron_xr_VDYZR_Gdw4_unsplash_c476416379",
+                    "resource_type": "image"
+                  }
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604418/thumbnail_emile_perron_xr_VDYZR_Gdw4_unsplash_c476416379.jpg",
+                  "hash": "thumbnail_emile_perron_xr_VDYZR_Gdw4_unsplash_c476416379",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_emile-perron-xrVDYZRGdw4-unsplash.jpg",
+                  "path": null,
+                  "size": 5.34,
+                  "width": 245,
+                  "height": 138,
+                  "sizeInBytes": 5337,
+                  "provider_metadata": {
+                    "public_id": "thumbnail_emile_perron_xr_VDYZR_Gdw4_unsplash_c476416379",
+                    "resource_type": "image"
+                  }
+                }
+              },
+              "hash": "emile_perron_xr_VDYZR_Gdw4_unsplash_c476416379",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 2219.35,
+              "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604419/emile_perron_xr_VDYZR_Gdw4_unsplash_c476416379.jpg",
+              "previewUrl": null,
+              "provider": "cloudinary",
+              "provider_metadata": {
+                "public_id": "emile_perron_xr_VDYZR_Gdw4_unsplash_c476416379",
+                "resource_type": "image"
+              },
+              "folderPath": "/",
+              "createdAt": "2026-03-27T03:55:19.603Z",
+              "updatedAt": "2026-03-27T03:55:19.603Z",
+              "publishedAt": "2026-03-27T03:55:19.603Z",
+              "locale": null
+            }
+          ],
+          "createdBy": null,
+          "updatedBy": {
+            "id": 1,
+            "documentId": "spmexdj44z5k1h7g36qw2dz9",
+            "firstname": "HTR ONE",
+            "lastname": "TECH",
+            "username": "HTR ONE TECH",
+            "email": "info@htronetech.com",
+            "password": "$2a$10$wTm1iVLnDcyP9gfrdx.bSulXZEaO4njL3TOTxfMdcCWMtakK2JwTq",
+            "resetPasswordToken": null,
+            "registrationToken": null,
+            "isActive": true,
+            "blocked": false,
+            "preferedLanguage": null,
+            "createdAt": "2026-03-26T10:15:53.513Z",
+            "updatedAt": "2026-03-26T10:21:48.219Z",
+            "publishedAt": "2026-03-26T10:15:53.514Z",
+            "locale": null
+          },
+          "localizations": []
+        },
+        {
+          "id": 7,
+          "documentId": "y6sv3k4s3nas6zohn6gx58sp",
+          "title": "Choosing the Right Tech Stack",
+          "subtitle": "Key Considerations for Your Development Projects",
+          "content": [
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "Your Project Needs",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Before selecting a tech stack, it's crucial to assess the specific requirements of your project. Consider factors such as the application type, target audience, and expected scalability.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "Evaluating Frontend Technologies",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Frontend technologies influence user experience significantly. Options include frameworks like React, Angular, or Vue.js. Analyze their pros and cons in terms of performance, learning curve, and community support.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "Backend Language and Framework Selection",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The backend is the backbone of your tech stack. Choose between languages such as Python, Java, or Node.js based on development speed, team expertise, and project requirements.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "Database Considerations",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Decide between SQL and NoSQL databases according to data structure, scalability needs, and consistency requirements. Options include MySQL, PostgreSQL, MongoDB, and Firebase.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "Deployment and Hosting Environment",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Consider where you will host your application. Cloud environments, such as AWS, Azure, or Google Cloud, offer flexibility and scalability factors to think about.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "Future Maintenance and Upgrades",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Choose technologies that not only fit your current needs but also provide ease of maintenance and the ability to upgrade in the future, as the tech landscape evolves.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "slug": "choosing-the-right-tech-stack",
+          "createdAt": "2026-03-26T12:04:51.064Z",
+          "updatedAt": "2026-03-30T05:00:30.160Z",
+          "publishedAt": null,
+          "locale": null,
+          "metaTitle": "Choosing the Right Tech Stack for Your Project",
+          "metaDescription": "Discover how to select the ideal tech stack for your development projects by evaluating project needs, frontend and backend technologies, and more.",
+          "focusKeywords": "tech stack, frontend technologies, backend languages, database selection, cloud hosting",
+          "canonicalUrl": "https://www.example.com/choosing-the-right-tech-stack",
+          "images": [
+            {
+              "id": 36,
+              "documentId": "wfodvkf86kxgwncrgnl2z5kz",
+              "name": "christopher-gower-m_HRfLhgABo-unsplash.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "focalPoint": null,
+              "width": 3882,
+              "height": 2584,
+              "formats": {
+                "large": {
+                  "ext": ".jpg",
+                  "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604356/large_christopher_gower_m_H_Rf_Lhg_A_Bo_unsplash_ffb203aeff.jpg",
+                  "hash": "large_christopher_gower_m_H_Rf_Lhg_A_Bo_unsplash_ffb203aeff",
+                  "mime": "image/jpeg",
+                  "name": "large_christopher-gower-m_HRfLhgABo-unsplash.jpg",
+                  "path": null,
+                  "size": 76.38,
+                  "width": 1000,
+                  "height": 666,
+                  "sizeInBytes": 76384,
+                  "provider_metadata": {
+                    "public_id": "large_christopher_gower_m_H_Rf_Lhg_A_Bo_unsplash_ffb203aeff",
+                    "resource_type": "image"
+                  }
+                },
+                "small": {
+                  "ext": ".jpg",
+                  "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604356/small_christopher_gower_m_H_Rf_Lhg_A_Bo_unsplash_ffb203aeff.jpg",
+                  "hash": "small_christopher_gower_m_H_Rf_Lhg_A_Bo_unsplash_ffb203aeff",
+                  "mime": "image/jpeg",
+                  "name": "small_christopher-gower-m_HRfLhgABo-unsplash.jpg",
+                  "path": null,
+                  "size": 26.28,
+                  "width": 500,
+                  "height": 333,
+                  "sizeInBytes": 26281,
+                  "provider_metadata": {
+                    "public_id": "small_christopher_gower_m_H_Rf_Lhg_A_Bo_unsplash_ffb203aeff",
+                    "resource_type": "image"
+                  }
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604356/medium_christopher_gower_m_H_Rf_Lhg_A_Bo_unsplash_ffb203aeff.jpg",
+                  "hash": "medium_christopher_gower_m_H_Rf_Lhg_A_Bo_unsplash_ffb203aeff",
+                  "mime": "image/jpeg",
+                  "name": "medium_christopher-gower-m_HRfLhgABo-unsplash.jpg",
+                  "path": null,
+                  "size": 48.47,
+                  "width": 750,
+                  "height": 499,
+                  "sizeInBytes": 48465,
+                  "provider_metadata": {
+                    "public_id": "medium_christopher_gower_m_H_Rf_Lhg_A_Bo_unsplash_ffb203aeff",
+                    "resource_type": "image"
+                  }
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604356/thumbnail_christopher_gower_m_H_Rf_Lhg_A_Bo_unsplash_ffb203aeff.jpg",
+                  "hash": "thumbnail_christopher_gower_m_H_Rf_Lhg_A_Bo_unsplash_ffb203aeff",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_christopher-gower-m_HRfLhgABo-unsplash.jpg",
+                  "path": null,
+                  "size": 8.1,
+                  "width": 234,
+                  "height": 156,
+                  "sizeInBytes": 8096,
+                  "provider_metadata": {
+                    "public_id": "thumbnail_christopher_gower_m_H_Rf_Lhg_A_Bo_unsplash_ffb203aeff",
+                    "resource_type": "image"
+                  }
+                }
+              },
+              "hash": "christopher_gower_m_H_Rf_Lhg_A_Bo_unsplash_ffb203aeff",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 953.98,
+              "url": "https://res.cloudinary.com/drlt4glhi/image/upload/v1774604357/christopher_gower_m_H_Rf_Lhg_A_Bo_unsplash_ffb203aeff.jpg",
+              "previewUrl": null,
+              "provider": "cloudinary",
+              "provider_metadata": {
+                "public_id": "christopher_gower_m_H_Rf_Lhg_A_Bo_unsplash_ffb203aeff",
+                "resource_type": "image"
+              },
+              "folderPath": "/",
+              "createdAt": "2026-03-27T03:54:17.515Z",
+              "updatedAt": "2026-03-27T03:54:17.515Z",
+              "publishedAt": "2026-03-27T03:54:17.516Z",
+              "locale": null
+            }
+          ],
+          "createdBy": null,
+          "updatedBy": {
+            "id": 1,
+            "documentId": "spmexdj44z5k1h7g36qw2dz9",
+            "firstname": "HTR ONE",
+            "lastname": "TECH",
+            "username": "HTR ONE TECH",
+            "email": "info@htronetech.com",
+            "password": "$2a$10$wTm1iVLnDcyP9gfrdx.bSulXZEaO4njL3TOTxfMdcCWMtakK2JwTq",
+            "resetPasswordToken": null,
+            "registrationToken": null,
+            "isActive": true,
+            "blocked": false,
+            "preferedLanguage": null,
+            "createdAt": "2026-03-26T10:15:53.513Z",
+            "updatedAt": "2026-03-26T10:21:48.219Z",
+            "publishedAt": "2026-03-26T10:15:53.514Z",
+            "locale": null
+          },
+          "localizations": []
+        }
+      ]
+    }
+  ],
+  "message": "Here is a list of blog entries in the CMS:\n\n1. **Title:** The Future of AI in Software Development\n   - **Subtitle:** AI is becoming part of how products are built, operated, and improved.\n   - **Slug:** future-of-ai-in-tech\n   - **Content Summary:** This article discusses how AI is being incorporated into various operational aspects of software development and its evolving role.\n   - ![Image](https://res.cloudinary.com/drlt4glhi/image/upload/v1774604448/john_Fl_Pc9_Voc_J4_unsplash_382552a165.jpg)\n\n2. **Title:** Unlocking Business Potential: The Power of Bespoke Software Development\n   - **Subtitle:** Why Custom Software Solutions are Key for Modern Businesses\n   - **Slug:** bespoke-software-development\n   - **Content Summary:** A comprehensive look at bespoke software development and its strategic advantages for businesses.\n   - ![Image](https://res.cloudinary.com/drlt4glhi/image/upload/v1774604280/Blog8_bac5d2d276.jpg)\n\n3. **Title:** Enhancing Custom Software Performance\n   - **Subtitle:** Key Strategies for Optimizing Your Applications\n   - **Slug:** custom-software-performance\n   - **Content Summary:** Discusses the importance of software performance and several strategies to optimize custom applications.\n   - ![Image](https://res.cloudinary.com/drlt4glhi/image/upload/v1774604276/Blog1_f7ae2166f5.webp)\n\n4. **Title:** Why Bespoke Software Wins\n   - **Subtitle:** Where off-the-shelf tools create limits, custom systems create leverage.\n   - **Slug:** why-bespoke-software-wins\n   - **Content Summary:** The article explores the advantages of bespoke software in contrast to generic, off-the-shelf solutions.\n   - ![Image](https://res.cloudinary.com/drlt4glhi/image/upload/v1774604419/emile_perron_xr_VDYZR_Gdw4_unsplash_c476416379.jpg)\n\n5. **Title:** Choosing the Right Tech Stack\n   - **Subtitle:** Key Considerations for Your Development Projects\n   - **Slug:** choosing-the-right-tech-stack\n   - **Content Summary:** This entry provides guidance on how to evaluate and select the right technology stack for development projects.\n   - ![Image](https://res.cloudinary.com/drlt4glhi/image/upload/v1774604357/christopher_gower_m_H_Rf_Lhg_A_Bo_unsplash_ffb203aeff.jpg)\n\nFeel free to let me know if you need more information or specific details about any entry!",
+  "notify": {
+    "type": "success",
+    "message": "Here is a list of blog entries in the CMS:\n\n1. **Title:** The Future of AI in Software Development\n   - **Subtitle:** AI is becoming part of how products are built, operated, and improved.\n   - **Slug:** future-of-ai-in-tech\n   - **Content Summary:** This article discusses how AI is being incorporated into various operational aspects of software development and its evolving role.\n   - ![Image](https://res.cloudinary.com/drlt4glhi/image/upload/v1774604448/john_Fl_Pc9_Voc_J4_unsplash_382552a165.jpg)\n\n2. **Title:** Unlocking Business Potential: The Power of Bespoke Software Development\n   - **Subtitle:** Why Custom Software Solutions are Key for Modern Businesses\n   - **Slug:** bespoke-software-development\n   - **Content Summary:** A comprehensive look at bespoke software development and its strategic advantages for businesses.\n   - ![Image](https://res.cloudinary.com/drlt4glhi/image/upload/v1774604280/Blog8_bac5d2d276.jpg)\n\n3. **Title:** Enhancing Custom Software Performance\n   - **Subtitle:** Key Strategies for Optimizing Your Applications\n   - **Slug:** custom-software-performance\n   - **Content Summary:** Discusses the importance of software performance and several strategies to optimize custom applications.\n   - ![Image](https://res.cloudinary.com/drlt4glhi/image/upload/v1774604276/Blog1_f7ae2166f5.webp)\n\n4. **Title:** Why Bespoke Software Wins\n   - **Subtitle:** Where off-the-shelf tools create limits, custom systems create leverage.\n   - **Slug:** why-bespoke-software-wins\n   - **Content Summary:** The article explores the advantages of bespoke software in contrast to generic, off-the-shelf solutions.\n   - ![Image](https://res.cloudinary.com/drlt4glhi/image/upload/v1774604419/emile_perron_xr_VDYZR_Gdw4_unsplash_c476416379.jpg)\n\n5. **Title:** Choosing the Right Tech Stack\n   - **Subtitle:** Key Considerations for Your Development Projects\n   - **Slug:** choosing-the-right-tech-stack\n   - **Content Summary:** This entry provides guidance on how to evaluate and select the right technology stack for development projects.\n   - ![Image](https://res.cloudinary.com/drlt4glhi/image/upload/v1774604357/christopher_gower_m_H_Rf_Lhg_A_Bo_unsplash_ffb203aeff.jpg)\n\nFeel free to let me know if you need more information or specific details about any entry!"
+  }
+}
